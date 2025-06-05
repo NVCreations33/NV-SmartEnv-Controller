@@ -12,8 +12,8 @@ This repository contains the complete project for **NV-SmartEnv-Controller**, in
 | File/Folder               | Description |
 |---------------------------|-------------|
 | `SmartEnv.ino`            | Arduino code (menu-based, fully manual control) |
-| `/EasyEDA/`               | EasyEDA design file (`.json`) |
-| `/Gerber/NV_SmartEnv.zip` | Gerber file zip for PCB manufacturing |
+| `EasyEDA.json`            | EasyEDA design file |
+| `Gerber.zip`              | Gerber file zip for PCB manufacturing |
 | `top-view.svg`            | SVG rendering of PCB top view |
 | `schematic.png`           | Schematic circuit diagram |
 | `pcb-preview.png`         | PNG view of the PCB layout |
@@ -39,9 +39,7 @@ This repository contains the complete project for **NV-SmartEnv-Controller**, in
 
 1. Upload the `SmartEnv.ino` sketch to your Arduino Nano
 2. Assemble the circuit using the provided PCB and components
-3. Use onboard buttons to:
-   - Set threshold values
-   - Enable or disable safety limits
+3. Use onboard buttons to set threshold values
 4. Connect output devices to the control terminals
 
 ---
