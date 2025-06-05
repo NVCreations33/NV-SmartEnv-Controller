@@ -17,6 +17,7 @@ This repository contains the complete project for **NV-SmartEnv-Controller**, in
 | `top-view.svg`            | SVG rendering of PCB top view |
 | `schematic.png`           | Schematic circuit diagram |
 | `pcb-preview.png`         | PNG view of the PCB layout |
+| `layout.png`              | PCB Layout |
 | `README.md`               | This documentation |
 | `LICENSE`                 | License information (CC BY-NC-SA 4.0) |
 
@@ -46,9 +47,9 @@ This repository contains the complete project for **NV-SmartEnv-Controller**, in
 
 ## 📷 Previews
 
-| PCB Top View | Schematic Diagram | PCB Design View |
-|--------------|-------------------| ----------------|
-| ![Top View](top-view.svg) | ![Schematic](schematic.png) | ![Design](design.png) |
+| PCB Top View | PCB Layout | Schematic Diagram |
+|--------------|------------|-------------------|
+| ![Top View](top-view.svg) | ![Layout](layout.png) | ![Schematic](schematic.png) |
 
 ---
 
